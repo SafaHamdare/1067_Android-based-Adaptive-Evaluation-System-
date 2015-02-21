@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Adaptive Evaluation System</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Adaptive Evaluation System</string>
+    <string name="title_activity_question_page">Test Page</string>
+    <string name="title_activity_report">Report Page</string>
+    <string name="title_activity_welcome">AES</string>
+    <string name="instructions">First question attempted by Student would be of Easy level for 1 marks, if it is answered correctly then examinee
+moves to attempt the next level question of 2 marks, if this also answered correctly
+then he attempts a question of difficult level each for 3 marks and can maintain on this level utill he attempts
+total 30 questions. So a student with high IQ would get an apportunity to achieve more marks as compared to a less IQ Student.
+Whereas if a student is unable to answer correctly the first question of easy level then he remains on the first level for all the
+30 questions.</string>
+    <string name="subjecttestInstructions">A Subject test is posted by a respective Subject Teacher and it last for a duration of 30 minutes i.e. 1/2 hour for a total of 30 questions.</string>
+    <string name="instruction3">As soon as a user starts a test, the timer will begin. The timer will continue even if the user minimises the screen.
+So you are requested to keep adequate pencil / paper ready before you begin your test.
+The test starts with a random level question. If the question is answered correctly, the next question will be a higher level questions.
+If answered incorrectly, the next question will be a lower level question.</string>
+    <string name="instruction4">Marks would be awarded depending on the correctness of the answer and the current level. There is no negative marking for the test.
+As our tests are adaptive in nature, the marking scheme used is a bit different from that used by other online sites.</string>
+    <string name="title_activity_report_answer">Result Page</string>
+    <string name="title_activity_detail_answer">Question Detail</string>
+    <string name="viewReport">View Report</string>
+    <string name="logout">Logout</string>
+
+</resources>
