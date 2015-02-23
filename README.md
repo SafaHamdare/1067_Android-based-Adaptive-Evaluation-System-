@@ -14,7 +14,7 @@ Adaptive Evaluation System is an Android Application where students can give tes
 Features of the System with Screenshots:
 
 A. Login & Registration Form for System
-![alt tag](https://raw.github.com/SafaHamdare/1067_Android-based-Adaptive-Evaluation-System-/master/screenshot/1.png)
+![alt tag](https://raw.github.com/SafaHamdare/1067_Android-based-Adaptive-Evaluation-System/master/screenshot/1.png)
 
 B. Main Page for System
 ![alt tag](https://raw.github.com/SafaHamdare/1067_Android-based-Adaptive-Evaluation-System-/master/screenshot/2.png)
