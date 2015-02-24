@@ -11,22 +11,14 @@
 6. About (Short Description / Summary): 
 Adaptive Evaluation System is an Android Application where students can give test through app. It also has a web version which can be found at http://adaptivetest.tk. Students are expected to complete 30 Multiple Choice Questions (MCQs) within 30 minutes. Questions posed to students are adaptive in nature, i.e., they are determined by the way student has given previous answers. Questions can be either of three levels, level 1, level 2, level 3. Level 1 question are easy, level 2 questions are intermediate whereas level 3 questions are hardest. Level 1 question carries 1 mark, level 2 carries 2 mark whereas level 3 carries 3 marks. Each test contains each level of problems. Students can give test whenever, wherever he/she wants.
 
-Features of the System with Screenshots:
-
+Features of the System with Screenshot of the Application:
 A. Login & Registration Form for System
-
 ![alt tag](https://raw.github.com/SafaHamdare/1067_Android-based-Adaptive-Evaluation-System-/master/screenshot/1.png)
-
 B. Main Page for System
-
 ![alt tag](https://raw.github.com/SafaHamdare/1067_Android-based-Adaptive-Evaluation-System-/master/screenshot/2.png)
-
 C. Test Page for System
-
 ![alt tag](https://raw.github.com/SafaHamdare/1067_Android-based-Adaptive-Evaluation-System-/master/screenshot/3.png)
-
 D. Test Report Page for System
-
 ![alt tag](https://raw.github.com/SafaHamdare/1067_Android-based-Adaptive-Evaluation-System-/master/screenshot/4.png)
 
 7. Install (Installation procedure): Step by step procedure to install software.
